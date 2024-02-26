@@ -1,0 +1,19 @@
+// Duplicated lines
+This is a duplicated line.
+This is another duplicated line.
+Yet another duplicated line.
+
+// Unique lines
+This is a unique line.
+Here is another unique line.
+And one more unique line.
+
+// Duplicated lines
+This is a duplicated line.
+This is another duplicated line.
+Yet another duplicated line.
+
+// Unique lines
+This is a unique line.
+Here is another unique line.
+And one more unique line.
